@@ -1,6 +1,6 @@
 /* UBUNTU THEME */
 
-.codemirror, .codemirror-gutter {
+.codemirror, .codemirror-gutter, body {
   background-color: #300a24;
 }
 .codemirror {
