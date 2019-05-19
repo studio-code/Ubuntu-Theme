@@ -1,21 +1,21 @@
 /* UBUNTU THEME */
 
-.CodeMirror, .CodeMirror-gutter {
+.codemirror, .codemirror-gutter {
   background-color: #300a24;
 }
-.CodeMirror {
+.codemirror {
   color: white;
 }
-.CodeMirror ::selection {
+.codemirror ::selection {
   background-color: #b6b6b6;
 }
-.CodeMirror-gutter {
+.codemirror-gutter {
   border-right: 1px solid #533d51;
 }
-.CodeMirror-gutter-element {
+.codemirror-gutter-element {
   color: #fce94f;
 }
-.CodeMirror-content {
+.codemirror-content {
   caret-color: white;
 }
 
@@ -23,11 +23,11 @@
 .cm-comment,
 .cm-bracket,
 .cm-attribute,
-.CodeMirror-matchingbracket {
+.codemirror-matchingbracket {
   color: #34e2e2; /* neon blue */
 }
 
-.CodeMirror-matchingbracket {
+.codemirror-matchingbracket {
   font-weight: bold;
 }
 
