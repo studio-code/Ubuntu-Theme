@@ -1,0 +1,12 @@
+{
+	"name": "UbuntuTheme",
+	"title": "Ubuntu Theme",
+	"author": "Arthur Guiot & Datavis Tech",
+	"description": "A theme for StudIO that approximates Vim in Ubuntu.",
+	"image": "./img.png",
+	"version": "1.0.0",
+	"git": "https://github.com/studio-code/Ubuntu-Theme/",
+	"type": "theme",
+	"main": "codemirror-ubuntu-theme.css",
+	"activation": ".*\\.css$",
+}
